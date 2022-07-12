@@ -1,0 +1,9 @@
+*{
+    margin:0px;
+    padding:0px
+}
+#form{
+    width: 100px;
+    height: 100vh;
+    box-sizing: content-box;
+}
